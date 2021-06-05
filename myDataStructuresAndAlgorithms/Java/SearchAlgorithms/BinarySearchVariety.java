@@ -1,3 +1,5 @@
+package SearchAlgorithms;
+
 public class BinarySearchVariety {
 
   public int bsearch(int[] a, int n, int value) {
